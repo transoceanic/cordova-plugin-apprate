@@ -35,7 +35,7 @@ under the License.
 
     <dependency id="cordova-plugin-dialogs"/>
     <dependency id="cordova-plugin-inappbrowser"/>
-    <dependency url="https://github.com/transoceanic/cordova-plugin-nativestorage.git"/>
+    <dependency id="cordova-plugin-nativestorage" url="https://github.com/transoceanic/cordova-plugin-nativestorage.git"/>
 
     <js-module src="www/AppRate.js" name="AppRate">
         <clobbers target="AppRate"/>
