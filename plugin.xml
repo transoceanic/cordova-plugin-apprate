@@ -26,8 +26,8 @@ under the License.
     <keywords>cordova,phonegap,AppRate,App Rate,rate,iRate,rate in iTunes,write a review,rate us,rate my application</keywords>
     <license>Apache 2.0</license>
     <info>Cross-platform AppRate plugin for Cordova / PhoneGap</info>
-    <repo>https://github.com/pushandplay/cordova-plugin-apprate.git</repo>
-    <issue>https://github.com/pushandplay/cordova-plugin-apprate/issues</issue>
+    <repo>https://github.com/transoceanic/cordova-plugin-apprate.git</repo>
+    <issue>https://github.com/transoceanic/cordova-plugin-apprate/issues</issue>
 
     <engines>
         <engine name="cordova" version=">=3.0.0"/>
